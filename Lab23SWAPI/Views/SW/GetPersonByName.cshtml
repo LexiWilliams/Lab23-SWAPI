@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "GetPersonByName";
+}
+@model PersonList
+
+<h1>Get Person By Name</h1>
+
+<form action="/SW/ResultPersonName" method="post">
+    <select name="nameURL">
+        @{
+            foreach (var item in Model.results)
+            {
+                <option value="@item.url">@item.name</option>
+            }
+        }
+    </select>
+
+    <input type="submit" value="Search" />
+</form>

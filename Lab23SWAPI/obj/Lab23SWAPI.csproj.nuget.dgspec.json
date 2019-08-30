@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj": {}
+    "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23-SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj": {
+    "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23-SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23-SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj",
         "projectName": "Lab23SWAPI",
-        "projectPath": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj",
+        "projectPath": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23-SWAPI\\Lab23SWAPI\\Lab23SWAPI.csproj",
         "packagesPath": "C:\\Users\\lexas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23SWAPI\\Lab23SWAPI\\obj\\",
+        "outputPath": "C:\\Users\\lexas\\Desktop\\C#\\Week 7\\Lab23-SWAPI\\Lab23SWAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

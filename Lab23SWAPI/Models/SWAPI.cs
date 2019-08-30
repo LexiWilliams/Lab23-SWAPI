@@ -38,7 +38,7 @@ namespace Lab23SWAPI.Models
         public int count { get; set; }
         public string next { get; set; }
         public object previous { get; set; }
-        public Planet[] planet { get; set; }
+        public Planet[] results { get; set; }
     }
 
     public class Planet
